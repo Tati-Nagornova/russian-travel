@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin: 28px 24px 48px 24px;
+}
+
+@media screen and (max-width: 425px) {
+  .header {
+    margin: 16px 16px 48px 16px;
+  }
+}
