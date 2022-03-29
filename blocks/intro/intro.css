@@ -1,6 +1,18 @@
 .intro {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-    margin: 114px 442px 92px 148px;
+    color: var(--color-light);
+    max-width: 984px;
+    padding: 92px 48px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        padding: 88px 24px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .intro {
+        padding: 64px 16px;
+    }
 }

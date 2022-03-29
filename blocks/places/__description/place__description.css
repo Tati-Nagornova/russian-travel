@@ -1,0 +1,16 @@
+.place__description {
+    padding: 0px;
+    max-width: 484px;
+    font-family: MyInter, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 29px;
+    color: var(--color-light);
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.place__paragrath {
+    margin-top: 0px;
+}
