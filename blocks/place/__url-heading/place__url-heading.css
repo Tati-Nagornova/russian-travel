@@ -1,19 +1,19 @@
 .place__url-heading {
-    font-family: MyInter, serif;
-    font-size: 12px;
-    line-height: 12px;
-    letter-spacing: 2px;
-    color: #AAAAAA;
-    font-style: normal;
-    font-weight: normal;
+  font-family: MyInter, serif;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #aaaaaa;
+  font-style: normal;
+  font-weight: normal;
 }
 
 .place__link {
-    font-family: MyInter, serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
-    color: var(--color-light);
+  font-family: MyInter, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: var(--color-light);
 }

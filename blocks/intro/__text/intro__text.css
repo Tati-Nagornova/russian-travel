@@ -1,23 +1,9 @@
 .intro__text {
-    font-family: MyInter, serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 26.08px;
-    margin: 40px 0 0 0;
-    max-width: 690px;
-    text-rendering: optimizeLegibility;
+  font-family: MyInter, serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26.08px;
+  margin: 40px 0 0 0;
+  max-width: 690px;
+  text-rendering: optimizeLegibility;
 }
-
-
-/* @media screen and (max-width: 767px) {
-    .intro__text {
-        max-width: 720px;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    .intro__text {
-        max-width: 288px;
-        max-height: 520;
-    }
-} */
