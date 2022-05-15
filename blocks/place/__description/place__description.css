@@ -1,0 +1,9 @@
+.place__description {
+    margin: 0;
+    font-family: MyInter, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.34px;
+    color: var(--color-light);
+}
