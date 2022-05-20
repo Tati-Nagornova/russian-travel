@@ -1,0 +1,7 @@
+.place__link {
+  transition: 0.335s ease-in-out;
+}
+
+.place__link:hover {
+  opacity: 0.5;
+}

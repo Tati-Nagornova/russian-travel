@@ -1,4 +1,7 @@
 .photo-grid__item {
-  display: block;
+  list-style-type: none;
+}
+
+.photo-grid__item > img {
   width: 100%;
 }
