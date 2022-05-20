@@ -1,6 +1,6 @@
 .place__description {
   margin: 0;
-  font-family: MyInter, serif;
+  font-family: MyInter, Helvetica, serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -12,5 +12,11 @@
   .place__description {
     line-height: 26.08px;
     font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__description {
+    padding: 0 16px;
   }
 }

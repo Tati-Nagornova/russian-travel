@@ -4,14 +4,32 @@
   background-size: cover;
   background-position: center;
   text-decoration: none;
-  height: 58vw;
-  max-height: 740px;
+  height: 740px;
   max-width: 1184px;
   position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__overlay {
+    height: 640px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__overlay {
+    height: 480px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__overlay {
+    height: 58vw;
+    min-height: 200px;
+  }
 }
 
 .cover__overlay::before {

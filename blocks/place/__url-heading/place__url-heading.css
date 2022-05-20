@@ -1,5 +1,5 @@
 .place__url-heading {
-  font-family: MyInter, serif;
+  font-family: MyInter, Helvetica, serif;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 2px;
@@ -9,7 +9,7 @@
 }
 
 .place__link {
-  font-family: MyInter, serif;
+  font-family: MyInter, Helvetica, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
