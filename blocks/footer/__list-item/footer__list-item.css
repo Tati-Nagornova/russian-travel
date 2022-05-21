@@ -1,8 +1,8 @@
-.footer__link {
+.footer__list-item {
   margin-right: 18px;
 }
 
-.footer__link > a {
+.footer__list-item > a {
   font-size: 16px;
   line-height: 18px;
   font-weight: 400;
@@ -11,23 +11,23 @@
   transition: 0.335s ease-in-out;
 }
 
-.footer__link:hover > a {
+.footer__list-item:hover > a {
   opacity: 0.5;
 }
 
-.footer__link:last-child {
+.footer__list-item:last-child {
   margin-right: 0;
 }
 @media (max-width: 767px) {
-  .footer__link {
+  .footer__list-item {
     margin-right: 0;
     margin-bottom: 32px;
   }
-  .footer__link:last-child {
+  .footer__list-item:last-child {
     margin-right: 0;
     margin-bottom: 0;
   }
-  .footer__link > a {
+  .footer__list-item > a {
     font-size: 24px;
     line-height: 24px;
   }

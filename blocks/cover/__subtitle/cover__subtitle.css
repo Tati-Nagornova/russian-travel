@@ -1,6 +1,6 @@
 .cover__subtitle {
   z-index: 1;
-  margin-top: 32px;
+  margin: 32px 0 0 0;
   max-width: 360px;
   font-family: MyInter, Helvetica, serif;
   font-weight: 400;

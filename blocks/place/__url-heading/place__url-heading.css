@@ -6,14 +6,5 @@
   color: #aaaaaa;
   font-style: normal;
   font-weight: normal;
-}
-
-.place__link {
-  font-family: MyInter, Helvetica, serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 22px;
-  text-decoration-line: underline;
-  color: var(--color-light);
+  margin: 12px 0;
 }
